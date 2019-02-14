@@ -12,7 +12,7 @@ A HTML5 canvas JavaScript animation of a 3D starfield. Uses p5.js for graphics r
  - vector.js - homebrew vector library, honestly not sure why I bothered with this
  - README.md - you're reading it
  - p5/p5.min.js - p5 API for graphics processing, see http://p5js.org for details
- - 
+
 ## How to use
 This was written with the intention of running it either in a client browser or from OBS as a browser source for use while streaming. If you want to run it directly in a browser simply open the index.html file and enjoy!
 
@@ -33,7 +33,7 @@ If you want to use it in OBS:
 ## Customization
 There are a few fields in the index.html file that you can adjust for quick effortless customization. They are all in hidden input fields inside the body element.
 
- - backgroundColor can be set to any hexadecimal color string (default is black #000000) [Google Link](https://www.google.com/search?q=color%20picker)
+- backgroundColor can be set to any hexadecimal color string (default is black #000000) [Google Link](https://www.google.com/search?q=color%20picker)
 - numStars can be set to how many stars you want (default is 400)
 - maxRadius can be set to maximum star radius in pixels (default is 8)
 
